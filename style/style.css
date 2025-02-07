@@ -7,7 +7,7 @@
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.6;
-    color: #797575;
+    color: #0d0e0d;
     padding-top: 80px;
 }
 .container {
@@ -20,7 +20,7 @@ body {
     position: fixed;
     top: 0;
     width: 100%;
-    background-color: #1665b4;
+    background-color: #469b62;
     padding: 1rem 0;
     z-index: 1000;
 }
@@ -30,13 +30,13 @@ body {
     list-style: none;
 }
 .main-nav a {
-    color: #ecf0f1;
+    color: #0b0d0e;
     text-decoration: none;
     padding: 0.5rem 1.5rem;
     transition: background-color 0.3s;
 }
 .main-nav a:hover {
-    background-color: #7193b4;
+    background-color: #257e4a;
     border-radius: 4px;
 }
 /* Section Box */
@@ -55,7 +55,7 @@ body {
     height: auto;
     margin: 0 2rem 1rem 0;
     border-radius: 50%;
-    border: 3px solid #7dc4f3;
+    border: 3px solid #7df391;
 }
 /* Skills List */
 .skills-list {
@@ -65,7 +65,7 @@ body {
     list-style: none;
 }
 .skills-list li {
-    background-color: #a6d1ee;
+    background-color: #82ca98;
     color: white;
     padding: 0.5rem 1rem;
     border-radius: 20px;
@@ -93,10 +93,10 @@ body {
 }
 .contact-link {
     text-decoration: none;
-    color: #e74c3c;
+    color: #55ad59;
     font-weight: bold;
     padding: 0.5rem 1rem;
-    border: 2px solid #e74c3c;
+    border: 2px solid #34cf5b;
     border-radius: 4px;
     transition: all 0.3s;
 }
@@ -110,11 +110,11 @@ h1, h2, h3 {
     margin-bottom: 1rem;
 }
 h1 {
-    color: #2c3e50;
+    color: #548f73;
     font-size: 2.5rem;
 }
 h2 {
-    color: #34495e;
+    color: #3b5f3b;
     font-size: 2rem;
     margin-bottom: 1.5rem;
 }
